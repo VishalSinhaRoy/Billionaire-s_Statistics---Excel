@@ -1,4 +1,4 @@
-# Billionaire-s_Statistics-Excel
+# Billionaire's_Data Analysis-Excel
 
 This project explores the wealth, demographics, and economic impact of billionaires using Excel. Key analyses include:
 
@@ -10,7 +10,7 @@ This project explores the wealth, demographics, and economic impact of billionai
 * *Descriptive Statistics & Correlation Analysis:* Statistical summaries and relationships between key variables.
 * *Forecasting:* Predicting the emergence of future billionaires.
 
-*Tools*
+**Tools**
 
 * *Excel:* Pivot Tables, Charts, Data Analysis and Forecasting techniques.
 
