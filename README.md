@@ -1,5 +1,7 @@
 # Billionaire's_Data Analysis-Excel
 
+![0-02-06-3a442ba9cf3b1fdf03b8fefffab11403d4602c139b5c6d8ea714e355547c0e0c_7dc7bdd3-696x463](https://github.com/user-attachments/assets/f3d4353d-87f6-4497-9bcb-0cde05df2a46)
+
 This project explores the wealth, demographics, and economic impact of billionaires using Excel. Key analyses include:
 
 * *Wealth Distribution:* Concentration of wealth by industry, country, and gender.
